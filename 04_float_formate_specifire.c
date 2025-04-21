@@ -1,4 +1,4 @@
-// %d is a integer formate specifire
+// %f is a float formate specifire
 #include<stdio.h>
 void main()
 {

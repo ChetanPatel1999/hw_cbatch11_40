@@ -3,7 +3,8 @@
 void main()
 {
 	float gram,kg;
-	gram=5000;
+	printf("enter weight in gram : ");
+	scanf("%f",&gram);
     kg=gram/1000;
-	printf("weight in kg : %.1f",kg);
+	printf("weight in kg : %.1f kg",kg);
 }

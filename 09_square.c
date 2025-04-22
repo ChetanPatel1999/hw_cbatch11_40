@@ -3,7 +3,8 @@
 void main()
 {
 	int num,square;
-	num=12;
+	printf("enter num : ");
+	scanf("%d",&num);
 	square=num*num;
 	printf("square of %d = %d",num,square);
 }

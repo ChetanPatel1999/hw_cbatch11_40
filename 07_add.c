@@ -3,8 +3,8 @@
 void main()
 {
 	int num1,num2,num3;
-	num1=123;
-	num2=100;
+	num1=12;
+	num2=10;
 	printf("this is addition program....\n");
 	printf("value of num1 = %d\n",num1);
 	printf("value of num2 = %d\n",num2);

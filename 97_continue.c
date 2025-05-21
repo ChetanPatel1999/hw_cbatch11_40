@@ -4,7 +4,7 @@ void main()
     int i = 1;
     while (i <= 10)
     {
-        i++; // 11
+        i++; // 4
         if (i % 4 == 0)
         {
             break;
@@ -13,6 +13,7 @@ void main()
         {
             continue;
         }
-        printf("%d ", i); // 2 3 4 6 7 8 9 10 11
+        printf("%d ", i); // 2 3
     }
+    
 }

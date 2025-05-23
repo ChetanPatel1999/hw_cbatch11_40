@@ -2,10 +2,10 @@
 #include <stdio.h>
 void main()
 {
-    int i, j;
-    for (i = 1; i <= 5; i++) // i =
+    int i, j,n=7;
+    for (i = 1; i <= n; i++) // i =
     {
-        for (j = i; j <= 5; j++) // j =
+        for (j = i; j <= n; j++) // j =
         {
             printf("%d ", j); //
         }

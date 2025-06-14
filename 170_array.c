@@ -9,6 +9,7 @@ void main()
     {
         printf("%d ", arr1[i]);
     }
+    //12, 5643, 566, 78, 2
     int max = arr1[0];
     for (i = 0; i < 5; i++) // 5
     {

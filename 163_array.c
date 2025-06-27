@@ -2,7 +2,7 @@
 #include <stdio.h>
 void main()
 {
-    int arr[5] = {12, 34, 56, 78, 90};
+    int arr[] = {12, 34, 56, 78, 90};
     printf("array adresss :- \n");
     printf("%d\n", arr);
     printf("%d\n", &arr[0]);

@@ -2,6 +2,7 @@
     "files.associations": {
         "stdio.h": "c",
         "iostream": "cpp",
-        "135_PATTERN.C": "cpp"
+        "135_PATTERN.C": "cpp",
+        "204_STRING.C": "cpp"
     }
 }

@@ -3,6 +3,7 @@
         "stdio.h": "c",
         "iostream": "cpp",
         "135_PATTERN.C": "cpp",
-        "204_STRING.C": "cpp"
+        "204_STRING.C": "cpp",
+        "string.h": "c"
     }
 }

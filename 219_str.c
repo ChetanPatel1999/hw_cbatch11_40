@@ -21,5 +21,4 @@ void main()
     {
         printf("string are different");
     }
-
 }

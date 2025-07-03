@@ -56,7 +56,7 @@ void login(struct reg user[], int user_count)
             printf("\nfirst create registration than log in account\n\n");
         }
     }
-    else
+             
     {
         printf("\nfirst create registration than log in account\n\n");
     }
